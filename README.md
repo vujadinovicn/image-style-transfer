@@ -1,5 +1,15 @@
 # Image Style Transfer - CycleGAN vs. NST
 
+#### Requirements
+Before running the code, you should install all neccessary dependencies (you can also use `conda`):
+```bash
+pip install torch torchvision
+pip install tqdm
+pip install numpy
+pip install matplotlib
+pip install gradio
+```
+
 #### Model files
 CycleGAN model files are available at links:
 - Portraits: https://drive.google.com/file/d/1ZANuuR44nl-fDAk1m0gsNSrtcxn02dJn/view?usp=sharing
