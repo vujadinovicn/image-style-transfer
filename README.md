@@ -2,7 +2,7 @@
 
 #### Model files
 CycleGAN model files are available at links:
-- Portraits: https://drive.google.com/file/d/13wF3AKReMLTTrCXJmc5hHC_MlGX5hLw8/view?usp=sharing 
+- Portraits: https://drive.google.com/file/d/1ZANuuR44nl-fDAk1m0gsNSrtcxn02dJn/view?usp=sharing
 - Landscapes: https://drive.google.com/file/d/1lDm7DelR42LBdwDBvuP62152LQs8lnZd/view?usp=sharing
 
 Download them and change the path in `inference.py` and `training.py` scripts.
