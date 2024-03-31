@@ -42,4 +42,7 @@ python main.py
 #### Dataset
 Dataset is not currently available, but you can test model and get the results with your own images just by running `nst/inference.py` or `cycleGAN/inference.py`.
 
+#### Documentation
+Research poster, paper and presentation are available in upper files.
+
 #### Updates coming soon...
